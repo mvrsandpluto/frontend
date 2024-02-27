@@ -1,0 +1,7 @@
+to open the link into a new tab, we have to use "target"
+HOVER->the action of touching the button, when we want to change the change of color when we properly touch the button
+OPACITY->fading something from 1 to 0
+for the shadows we have the horizontal vertical blurr color
+we give name to a class to be able to target it
+we use span if we want to put it in a class and style wors by word or a whole phrase
+

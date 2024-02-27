@@ -1,0 +1,31 @@
+.sidebar{
+  position: fixed;
+  left:0;
+  bottom:0;
+  top:55px;
+  background-color: white;
+  width:72px;
+  z-index:200;
+  padding-top:5px;
+}
+.sidebar-link{
+
+  height:74px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction:column; /*we use this to put the text under the icons on the siderbar */
+cursor: pointer; /*when you put the cursor on the icons, it changes into the hand*/
+}
+.sidebar-link:hover{
+  background-color: rgba(235, 220, 220, 0.361);
+}
+.sidebar-link img{
+height:24px;
+margin-bottom: 4px;
+}
+.sidebar-link div{
+  font-size: 10px;
+
+}
+

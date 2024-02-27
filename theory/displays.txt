@@ -1,0 +1,5 @@
+DISPLAY ELEMENTS IN CSS:
+1.block element=take up the entire line
+2.inline-block element=take up as much space as they need to
+3.inline element=appear in a line of text
+
